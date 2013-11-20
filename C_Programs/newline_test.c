@@ -3,6 +3,6 @@
 int main()
 {
 
-	printf("test value /n // /'");
+	printf("test value\n \\ \"");
 	return 0;
 }
